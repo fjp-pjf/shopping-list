@@ -1,0 +1,84 @@
+{
+    "list":[
+        {
+            "Slno":"1",
+            "Name":"Apple",
+            "Quantity":"2",
+            "Unit":"KG",
+            "Department":"Fruit",
+            "Notes":"green apples"
+        },
+        {
+            "Slno":"2",
+            "Name":"Masala",
+            "Quantity":"500",
+            "Unit":"Grams",
+            "Department":"Grocery",
+            "Notes":"chilly powder"
+        },
+        {
+            "Slno":"3",
+            "Name":"Salt",
+            "Quantity":"1",
+            "Unit":"KG",
+            "Department":"Grocery",
+            "Notes":"Nil"
+        },
+        {
+            "Slno":"4",
+            "Name":"Cucumber",
+            "Quantity":"2",
+            "Unit":"KG",
+            "Department":"Vegetable",
+            "Notes":"Fresh"
+        },
+        {
+            "Slno":"5",
+            "Name":"Rice",
+            "Quantity":"10",
+            "Unit":"KG",
+            "Department":"Grocery",
+            "Notes":"Good quality"
+        },
+        {
+            "Slno":"6",
+            "Name":"Oil",
+            "Quantity":"3",
+            "Unit":"Liters",
+            "Department":"Oil",
+            "Notes":"Sunflower oil"
+        },
+        {
+            "Slno":"7",
+            "Name":"Ginger",
+            "Quantity":"250",
+            "Unit":"Grams",
+            "Department":"Vegetable",
+            "Notes":"Fresh"
+        },
+        {
+            "Slno":"8",
+            "Name":"Toothpaste",
+            "Quantity":"200",
+            "Unit":"Grams",
+            "Department":"Stationary",
+            "Notes":"Colgate only"
+        },
+        {
+            "Slno":"9",
+            "Name":"Turmeric",
+            "Quantity":"100",
+            "Unit":"Grams",
+            "Department":"Vegetable",
+            "Notes":"As powder"
+        },
+        {
+            "Slno":"10",
+            "Name":"Soap",
+            "Quantity":"5",
+            "Unit":"No.",
+            "Department":"Stationary",
+            "Notes":"Dove soap"
+        }
+    ]
+}

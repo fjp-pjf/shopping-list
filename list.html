@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery Shopping List</title>
+    <link rel="stylesheet"href="../css/list.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+              <!-- The button section  -->
+    <div class = "container text-center">
+        <h2>The Grocery Shopping List</h2>
+        <button class="button"onclick="showList();">Show List</button>    
+              <!-- The table section -->
+    <table class="table table-stripped">
+        <thead>
+          <tr>
+            <th>Sl.No</th>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Unit</th>
+            <th>Department</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+      <tbody id="data"></tbody>
+    </table>
+  </div>
+
+<script src="list.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    background-image: url(../asset/plants.jpg);
+    /* position:cover; */
+}
+table{
+    border:2px solid greenyellow;
+    margin:2vmin;
+    font-family:"Pacifico", cursive;
+}
+tr,th{
+    color: darkblue;
+    background-color:#ff9068;
+}
+table :hover{
+    background-color: honeydew;
+}
+h2{
+    color: greenyellow;
+}
+.button{
+    background-color:#5874DC;
+    padding:2vmin;
+    border-radius:30px;
+    border-width:0px;
+    
+}
